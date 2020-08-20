@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@types/mongoose": "^5.5.13",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "4.13.9",
     "restify": "6.3.4",
